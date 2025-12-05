@@ -4,7 +4,6 @@ Simulates electron–positron collisions near the Z resonance and measures a sma
 
 ## Files
 - `ElectronMuonScattering.ipynb` — main notebook with simulation, fits, and plots.
-- `simple_drawing.png` — schematic of the scattering angle.
 
 ## Environment
 ```bash
